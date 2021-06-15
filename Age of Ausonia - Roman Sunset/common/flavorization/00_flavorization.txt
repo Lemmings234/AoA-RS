@@ -26,7 +26,7 @@ prince_male_roman = {
 	tier = kingdom
 	priority = 40
 	cultures = { roman }
-	governments = { feudal_government }
+	governments = { feudal_government roman_imperial_government }
 	top_liege = no
 }
 prince_female_roman = {
@@ -36,7 +36,7 @@ prince_female_roman = {
 	tier = kingdom
 	priority = 40
 	cultures = { roman }
-	governments = { feudal_government }
+	governments = { feudal_government roman_imperial_government }
 	top_liege = no
 }
 prince_male_roman_empire = {
@@ -46,7 +46,7 @@ prince_male_roman_empire = {
 	tier = empire
 	priority = 40
 	cultures = { roman }
-	governments = { feudal_government }
+	governments = { feudal_government roman_imperial_government }
 	top_liege = no
 }
 prince_female_roman_empire = {
@@ -56,7 +56,7 @@ prince_female_roman_empire = {
 	tier = empire
 	priority = 40
 	cultures = { roman }
-	governments = { feudal_government }
+	governments = { feudal_government roman_imperial_government }
 	top_liege = no
 }
 
@@ -246,7 +246,7 @@ princess = {
 	gender = female
 	special = ruler_child
 	tier = kingdom
-	governments = { feudal_government clan_government }
+	governments = { feudal_government clan_government roman_imperial_government }
 	priority = 35
 	top_liege = no
 }
@@ -256,7 +256,7 @@ prince_empire = {
 	gender = male
 	special = ruler_child
 	tier = empire
-	governments = { feudal_government clan_government }
+	governments = { feudal_government clan_government roman_imperial_government }
 	priority = 35
 	top_liege = no
 }
@@ -266,7 +266,7 @@ princess_empire = {
 	gender = female
 	special = ruler_child
 	tier = empire
-	governments = { feudal_government clan_government }
+	governments = { feudal_government clan_government roman_imperial_government }
 	priority = 35
 	top_liege = no
 }

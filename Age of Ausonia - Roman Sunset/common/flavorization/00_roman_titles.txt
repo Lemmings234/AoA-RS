@@ -1,0 +1,144 @@
+empire_roman_imperial = { #Imperator
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 20
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+}
+empire_roman_imperial_female = { #Imperator
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 20
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+}
+empire_roman_imperial_greek = { #Basileus
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 20
+	governments = { roman_imperial_government }
+	culture_group = { greek_group }
+}
+empire_roman_imperial_greek = { #Basilissa
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 20
+	governments = { roman_imperial_government }
+	culture_group = { greek_group }
+}
+barony_roman_imperial = { #Dominus
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 2
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
+barony_roman_imperial_female = { #Domina
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 2
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
+county_roman_imperial = { #Praefectus
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 4
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
+county_roman_imperial_female = { #Praefectus
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 4
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
+duchy_roman_imperial = { #Praeses
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 8
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
+duchy_roman_imperial_female = { #Praeses
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 8
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
+kingdom_roman_imperial = { #Vicarius
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 12
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+}
+kingdom_roman_imperial_female = { #Vicarius
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 12
+	governments = { roman_imperial_government }
+	culture_group = { roman_group
+}
+imperial_crown_prince_roman = { #Caesar
+	type = character
+	gender = male
+	special = heir
+	tier = empire
+	priority = 20
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
+imperial_crown_princess_roman = { #Caesarissa
+	type = character
+	gender = female
+	special = heir
+	tier = empire
+	priority = 20
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
+imperial_empress_dowager_roman = { #Augusta
+	type = character
+	gender = female
+	special = queen_mother
+	tier = empire
+	priority = 20
+	governments = { roman_imperial_government }
+	culture_group = { roman_group }
+	top_liege = no
+}
