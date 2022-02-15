@@ -1,0 +1,74 @@
+frankish = {
+	color = frankish
+	
+	ethos = ethos_bellicose
+	heritage = heritage_germanic
+	language = language_frankish
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warrior_culture
+		tradition_hereditary_hierarchy
+		tradition_stand_and_fight
+	}
+	
+	name_list = name_list_frankish
+	
+	coa_gfx = { frankish_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
+	}
+}
+visigothic = {
+	color = { 0.55 0.55 0.15 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_germanic
+	language = language_gothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_equal_inheritance
+		tradition_hit_and_run
+		tradition_martial_admiration
+	}
+	
+	name_list = name_list_visigothic
+	
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+suebi = {
+	color = { 0.8 0.7 0.4 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_germanic
+	language = language_central_germanic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stand_and_fight
+		tradition_agrarian
+	}
+	
+	name_list = name_list_suebi
+	
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		10 = mediterranean
+	}
+}
