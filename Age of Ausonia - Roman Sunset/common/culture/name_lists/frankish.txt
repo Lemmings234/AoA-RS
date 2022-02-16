@@ -1,4 +1,4 @@
-name_list_french = {
+﻿name_list_french = {
 
 	cadet_dynasty_names = {
 		{ "dynnp_of" "dynn_Capet" }
