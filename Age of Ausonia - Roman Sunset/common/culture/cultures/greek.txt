@@ -106,6 +106,7 @@ assyrian = {
 galatian = {
 	color = greek
 	
+	parent = { greek gaulish }
 	ethos = ethos_bureaucratic
 	heritage = heritage_gaulish
 	language = language_greek

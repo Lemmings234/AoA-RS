@@ -13,7 +13,7 @@
 		tradition_hereditary_hierarchy
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_latin
 
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 
@@ -69,7 +69,7 @@ gallo_roman = { #Gallo-Roman
 		tradition_hereditary_hierarchy
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_gallo_roman
 
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 
@@ -154,7 +154,7 @@ hispano_roman = { #Hispano-Roman
 		tradition_hereditary_hierarchy
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_hispano_roman
 
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 
